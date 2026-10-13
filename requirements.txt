@@ -1,0 +1,4 @@
+pyobjc-framework-ApplicationServices>=9.0
+pyobjc-framework-Quartz>=9.0
+Pillow>=10.0
+pymupdf>=1.24
